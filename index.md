@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/Wenhorm/Wenhorm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="#">  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=9cats&theme=onedark" />
+</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I'm the cat that just surfed the Internet
 
-### Markdown
+- 🔭 I’m currently working on: Current student 
+- 🌱 I’m currently learning: MCU,FPGA,Web
+- 🙋‍♂️ I’m looking for: big man's guide
+- 💬 Ask me about: [Blog]([](https://github.com/Wenhorm)
+- ⚡ In fact: I'm a big pigeon🕊
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<details markdown='1'><summary>More</summary>
 
-```markdown
-Syntax highlighted code block
+### 🔧 **Most Used Developing Tools&Platforms**
 
-# Header 1
-## Header 2
-### Header 3
+![](https://img.shields.io/badge/System-Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
-- Bulleted
-- List
+### 🌟 **My Skills**
 
-1. Numbered
-2. List
+![](https://img.shields.io/badge/-C-f05032?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
+![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 
-**Bold** and _Italic_ and `Code` text
+### 🌱 **Next Skill&Tools Of Interest**
 
-[Link](url) and ![Image](src)
-```
+![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 🏕️ **Most Yearning Tools&Platforms**
 
-### Jekyll Themes
+![](https://img.shields.io/badge/-MacBook%20With%20M%20Chip-00ADD8?style=flat-square&logo=MacOS&logoColor=fff)
+![](https://img.shields.io/badge/-iPad%20Pro%20With%20Penceil-00ADD8?style=flat-square&logo=Apple&logoColor=fff)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wenhorm/Wenhorm/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### ⏯️ **Next Plans**
 
-### Support or Contact
+- Do more exercise in Ti Cup National Undergraduate Electronics Design Contest
+- Just learn what I should learn
+- EXPLORE
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</details>
