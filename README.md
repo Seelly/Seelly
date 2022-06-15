@@ -14,7 +14,7 @@
 ### 🔧 **Most Used Developing Tools&Platforms**
 
 ![](https://img.shields.io/badge/System-Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![](https://https://img.shields.io/badge/IDE-Jetbrain%20Tool%20Box-007acc?style=flat-square&logo=jetBrains&logoColor=fff)
 
 ### 🌟 **My skills**
 
