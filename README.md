@@ -7,7 +7,7 @@
 ### 
 
 - 🔭 I’m currently working on: Current student
-- 💬 Ask me about: [Blog](https://github.com/Wenhorm)
+- 💬 Ask me about: [Blog](https://clwen.top)
 
 <details markdown='1'><summary>More</summary>
 
