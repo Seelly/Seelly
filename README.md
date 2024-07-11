@@ -23,12 +23,12 @@
 ![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
-
-### 🌱 **Next Plans**
-
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
-![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
+
+
+### 🌱 **Next Plans**
+![](https://img.shields.io/badge/LLM-Embedding-007396?style=flat-square&logo=Java&logoColor=fff)
 
 
 </details>
