@@ -1,15 +1,9 @@
 ## Hi there 👋
 
 <a href="#">  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Seelly&theme=onedark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=seelly&count_private=true&show_icons=true" />
 </a>
 
-### 
-
-- 🔭 I’m currently working on: Current student
-- 💬 Ask me about: [Blog](http://clwen.top)
-
-<details markdown='1'><summary>More</summary>
 
 ### 🔧 **Most Used Developing Tools&Platforms**
 
@@ -29,6 +23,26 @@
 
 ### 🌱 **Next Plans**
 ![](https://img.shields.io/badge/LLM-Embedding-007396?style=flat-square&logo=Java&logoColor=fff)
+```golang
+package main
 
+import (
+	"fmt"
+)
 
-</details>
+type Seelly map[string]string
+
+func main() {
+	for k, v := range GetSeelly() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetSeelly() Seelly {
+	return Bio{
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, mivlus,LLM,Docker",
+		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅"
+	}
+}
+```
